@@ -1,0 +1,3 @@
+rootProject.name='adBanner'
+include ':app'
+include ':banner'
